@@ -1,0 +1,45 @@
+C:\Users\jfrivera\source\repos\Final\UnivaEats\UnivaEats\bin\Debug\UnivaEats.exe.config
+C:\Users\jfrivera\source\repos\Final\UnivaEats\UnivaEats\bin\Debug\UnivaEats.exe
+C:\Users\jfrivera\source\repos\Final\UnivaEats\UnivaEats\bin\Debug\UnivaEats.pdb
+C:\Users\jfrivera\source\repos\Final\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Properties.Resources.resources
+C:\Users\jfrivera\source\repos\Final\UnivaEats\UnivaEats\obj\Debug\UnivaEats.csproj.GenerateResource.cache
+C:\Users\jfrivera\source\repos\Final\UnivaEats\UnivaEats\obj\Debug\UnivaEats.csproj.CoreCompileInputs.cache
+C:\Users\jfrivera\source\repos\Final\UnivaEats\UnivaEats\obj\Debug\UnivaEats.exe
+C:\Users\jfrivera\source\repos\Final\UnivaEats\UnivaEats\obj\Debug\UnivaEats.pdb
+C:\Users\jfrivera\source\repos\Final\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Registrar.resources
+C:\Users\jfrivera\source\repos\Final\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Inicio.resources
+C:\Users\jfrivera\source\repos\Final\UnivaEats\UnivaEats\bin\Debug\GestorBD.dll
+C:\Users\jfrivera\source\repos\Final\UnivaEats\UnivaEats\bin\Debug\GestorBD.pdb
+C:\Users\jfrivera\source\repos\Final\UnivaEats\UnivaEats\obj\Debug\UnivaEats.csproj.CopyComplete
+C:\Users\jfrivera\source\repos\Final\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Entrar.resources
+C:\Users\jfrivera\source\repos\Final\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Menu.resources
+C:\Users\jfrivera\source\repos\Final\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Cocina.resources
+C:\Users\soycp\Desktop\prog visual\UnivaEats (1)\UnivaEats\UnivaEats\bin\Debug\UnivaEats.exe.config
+C:\Users\soycp\Desktop\prog visual\UnivaEats (1)\UnivaEats\UnivaEats\obj\Debug\UnivaEats.exe
+C:\Users\soycp\Desktop\prog visual\UnivaEats (1)\UnivaEats\UnivaEats\obj\Debug\UnivaEats.pdb
+C:\Users\soycp\Desktop\prog visual\UnivaEats (1)\UnivaEats\UnivaEats\obj\Debug\UnivaEats.csprojResolveAssemblyReference.cache
+C:\Users\soycp\Desktop\prog visual\UnivaEats (1)\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Cocina.resources
+C:\Users\soycp\Desktop\prog visual\UnivaEats (1)\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Entrar.resources
+C:\Users\soycp\Desktop\prog visual\UnivaEats (1)\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Inicio.resources
+C:\Users\soycp\Desktop\prog visual\UnivaEats (1)\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Menu.resources
+C:\Users\soycp\Desktop\prog visual\UnivaEats (1)\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Properties.Resources.resources
+C:\Users\soycp\Desktop\prog visual\UnivaEats (1)\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Registrar.resources
+C:\Users\soycp\Desktop\prog visual\UnivaEats (1)\UnivaEats\UnivaEats\obj\Debug\UnivaEats.csproj.GenerateResource.Cache
+C:\Users\soycp\Desktop\prog visual\UnivaEats (1)\UnivaEats\UnivaEats\bin\Debug\UnivaEats.exe
+C:\Users\soycp\Desktop\prog visual\UnivaEats (1)\UnivaEats\UnivaEats\bin\Debug\UnivaEats.pdb
+C:\Users\soycp\Desktop\prog visual\UnivaEats (1)\UnivaEats\UnivaEats\bin\Debug\GestorBD.pdb
+C:\Users\soycp\Desktop\prog visual\UnivaEats\UnivaEats\UnivaEats\bin\Debug\UnivaEats.exe.config
+C:\Users\soycp\Desktop\prog visual\UnivaEats\UnivaEats\UnivaEats\obj\Debug\UnivaEats.exe
+C:\Users\soycp\Desktop\prog visual\UnivaEats\UnivaEats\UnivaEats\obj\Debug\UnivaEats.pdb
+C:\Users\soycp\Desktop\prog visual\UnivaEats\UnivaEats\UnivaEats\bin\Debug\UnivaEats.exe
+C:\Users\soycp\Desktop\prog visual\UnivaEats\UnivaEats\UnivaEats\bin\Debug\UnivaEats.pdb
+C:\Users\soycp\Desktop\prog visual\UnivaEats\UnivaEats\UnivaEats\bin\Debug\GestorBD.dll
+C:\Users\soycp\Desktop\prog visual\UnivaEats\UnivaEats\UnivaEats\bin\Debug\GestorBD.pdb
+C:\Users\soycp\Desktop\prog visual\UnivaEats\UnivaEats\UnivaEats\obj\Debug\UnivaEats.csprojResolveAssemblyReference.cache
+C:\Users\soycp\Desktop\prog visual\UnivaEats\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Cocina.resources
+C:\Users\soycp\Desktop\prog visual\UnivaEats\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Entrar.resources
+C:\Users\soycp\Desktop\prog visual\UnivaEats\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Inicio.resources
+C:\Users\soycp\Desktop\prog visual\UnivaEats\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Menu.resources
+C:\Users\soycp\Desktop\prog visual\UnivaEats\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Properties.Resources.resources
+C:\Users\soycp\Desktop\prog visual\UnivaEats\UnivaEats\UnivaEats\obj\Debug\UnivaEats.Registrar.resources
+C:\Users\soycp\Desktop\prog visual\UnivaEats\UnivaEats\UnivaEats\obj\Debug\UnivaEats.csproj.GenerateResource.Cache
